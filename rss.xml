@@ -1,0 +1,40 @@
+<?xml version="1.0"?>
+<rss version="2.0">
+    <channel>
+        <title>Hexo</title>
+        <subtitle></subtitle>
+        <icon>http://example.com/images/favicon.ico</icon>
+        <link>http://example.com</link>
+        <author>
+          <name>John Doe</name>
+        </author>
+        <description></description>
+        <language>en</language>
+        <pubDate>Tue, 06 Jul 2021 14:25:39 +0800</pubDate>
+        <lastBuildDate>Tue, 06 Jul 2021 14:25:39 +0800</lastBuildDate>
+        <item>
+            <guid isPermalink="true">http://example.com/2021/07/06/test/</guid>
+            <title>test</title>
+            <link>http://example.com/2021/07/06/test/</link>
+            <pubDate>Tue, 06 Jul 2021 14:25:39 +0800</pubDate>
+            <description><![CDATA[ &lt;p&gt;test1111&lt;/p&gt;
+ ]]></description>
+        </item>
+        <item>
+            <guid isPermalink="true">http://example.com/2021/07/06/test1/</guid>
+            <title>test</title>
+            <link>http://example.com/2021/07/06/test1/</link>
+            <pubDate>Tue, 06 Jul 2021 14:25:39 +0800</pubDate>
+            <description><![CDATA[ &lt;p&gt;test1111&lt;/p&gt;
+ ]]></description>
+        </item>
+        <item>
+            <guid isPermalink="true">http://example.com/2021/07/06/test2/</guid>
+            <title>test</title>
+            <link>http://example.com/2021/07/06/test2/</link>
+            <pubDate>Tue, 06 Jul 2021 14:25:39 +0800</pubDate>
+            <description><![CDATA[ &lt;p&gt;test1111&lt;/p&gt;
+ ]]></description>
+        </item>
+    </channel>
+</rss>
