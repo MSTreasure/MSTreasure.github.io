@@ -15,16 +15,16 @@
             "tags": []
         },
         {
-            "id": "http://example.com/2021/07/06/test1/",
-            "url": "http://example.com/2021/07/06/test1/",
+            "id": "http://example.com/2021/07/06/test2/",
+            "url": "http://example.com/2021/07/06/test2/",
             "title": "test",
             "date_published": "2021-07-06T06:25:39.000Z",
             "content_html": "<p>test1111</p>\n",
             "tags": []
         },
         {
-            "id": "http://example.com/2021/07/06/test2/",
-            "url": "http://example.com/2021/07/06/test2/",
+            "id": "http://example.com/2021/07/06/test1/",
+            "url": "http://example.com/2021/07/06/test1/",
             "title": "test",
             "date_published": "2021-07-06T06:25:39.000Z",
             "content_html": "<p>test1111</p>\n",

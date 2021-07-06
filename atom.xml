@@ -18,17 +18,17 @@
         <updated>2021-07-06T06:25:39.000Z</updated>
     </entry>
     <entry>
-        <id>http://example.com/2021/07/06/test1/</id>
+        <id>http://example.com/2021/07/06/test2/</id>
         <title>test</title>
-        <link rel="alternate" href="http://example.com/2021/07/06/test1/"/>
+        <link rel="alternate" href="http://example.com/2021/07/06/test2/"/>
         <content type="html">&lt;p&gt;test1111&lt;/p&gt;
 </content>
         <updated>2021-07-06T06:25:39.000Z</updated>
     </entry>
     <entry>
-        <id>http://example.com/2021/07/06/test2/</id>
+        <id>http://example.com/2021/07/06/test1/</id>
         <title>test</title>
-        <link rel="alternate" href="http://example.com/2021/07/06/test2/"/>
+        <link rel="alternate" href="http://example.com/2021/07/06/test1/"/>
         <content type="html">&lt;p&gt;test1111&lt;/p&gt;
 </content>
         <updated>2021-07-06T06:25:39.000Z</updated>
