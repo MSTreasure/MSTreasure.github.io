@@ -14,57 +14,58 @@
     <category term="element" />
     <category term="uni-app" />
     <entry>
-        <id>https://tiantian.press/2021/07/06/test/</id>
+        <id>https://tiantian.press/test1/</id>
         <title>test</title>
-        <link rel="alternate" href="https://tiantian.press/2021/07/06/test/"/>
+        <link rel="alternate" href="https://tiantian.press/test1/"/>
         <content type="html">&lt;p&gt;test1111&lt;/p&gt;
 </content>
         <updated>2021-07-06T06:25:39.000Z</updated>
     </entry>
     <entry>
-        <id>https://tiantian.press/2021/07/06/test2/</id>
+        <id>https://tiantian.press/test/</id>
+        <title>test</title>
+        <link rel="alternate" href="https://tiantian.press/test/"/>
+        <content type="html">&lt;p&gt;test1111&lt;/p&gt;
+</content>
+        <updated>2021-07-06T06:25:39.000Z</updated>
+    </entry>
+    <entry>
+        <id>https://tiantian.press/test2/</id>
         <title>置顶文章</title>
-        <link rel="alternate" href="https://tiantian.press/2021/07/06/test2/"/>
+        <link rel="alternate" href="https://tiantian.press/test2/"/>
         <content type="html">&lt;p&gt;t 置顶文章置顶文章置顶文章置顶文章&lt;/p&gt;
 </content>
         <updated>2021-07-06T06:25:39.000Z</updated>
     </entry>
     <entry>
-        <id>https://tiantian.press/2021/07/06/test1/</id>
+        <id>https://tiantian.press/element/test/</id>
         <title>test</title>
-        <link rel="alternate" href="https://tiantian.press/2021/07/06/test1/"/>
+        <link rel="alternate" href="https://tiantian.press/element/test/"/>
         <content type="html">&lt;p&gt;test1111&lt;/p&gt;
 </content>
         <updated>2021-07-06T06:25:39.000Z</updated>
     </entry>
     <entry>
-        <id>https://tiantian.press/2021/07/06/javascript/test/</id>
+        <id>https://tiantian.press/uni-app/test/</id>
         <title>test</title>
-        <link rel="alternate" href="https://tiantian.press/2021/07/06/javascript/test/"/>
+        <link rel="alternate" href="https://tiantian.press/uni-app/test/"/>
         <content type="html">&lt;p&gt;test1111&lt;/p&gt;
 </content>
         <updated>2021-07-06T06:25:39.000Z</updated>
     </entry>
     <entry>
-        <id>https://tiantian.press/2021/07/06/element/test/</id>
-        <title>test</title>
-        <link rel="alternate" href="https://tiantian.press/2021/07/06/element/test/"/>
-        <content type="html">&lt;p&gt;test1111&lt;/p&gt;
+        <id>https://tiantian.press/vue/test/</id>
+        <title>tag</title>
+        <link rel="alternate" href="https://tiantian.press/vue/test/"/>
+        <content type="html">&lt;p&gt;tagtagtag&lt;/p&gt;
 </content>
+        <category term="vue" scheme="https://tiantian.press/categories/vue/" />
         <updated>2021-07-06T06:25:39.000Z</updated>
     </entry>
     <entry>
-        <id>https://tiantian.press/2021/07/06/uni-app/test/</id>
+        <id>https://tiantian.press/javascript/test/</id>
         <title>test</title>
-        <link rel="alternate" href="https://tiantian.press/2021/07/06/uni-app/test/"/>
-        <content type="html">&lt;p&gt;test1111&lt;/p&gt;
-</content>
-        <updated>2021-07-06T06:25:39.000Z</updated>
-    </entry>
-    <entry>
-        <id>https://tiantian.press/2021/07/06/vue/test/</id>
-        <title>test</title>
-        <link rel="alternate" href="https://tiantian.press/2021/07/06/vue/test/"/>
+        <link rel="alternate" href="https://tiantian.press/javascript/test/"/>
         <content type="html">&lt;p&gt;test1111&lt;/p&gt;
 </content>
         <updated>2021-07-06T06:25:39.000Z</updated>
