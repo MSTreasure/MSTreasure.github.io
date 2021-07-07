@@ -31,8 +31,8 @@
             "tags": []
         },
         {
-            "id": "https://tiantian.press/2021/07/06/vue/test/",
-            "url": "https://tiantian.press/2021/07/06/vue/test/",
+            "id": "https://tiantian.press/2021/07/06/javascript/test/",
+            "url": "https://tiantian.press/2021/07/06/javascript/test/",
             "title": "test",
             "date_published": "2021-07-06T06:25:39.000Z",
             "content_html": "<p>test1111</p>\n",
@@ -55,8 +55,8 @@
             "tags": []
         },
         {
-            "id": "https://tiantian.press/2021/07/06/javascript/test/",
-            "url": "https://tiantian.press/2021/07/06/javascript/test/",
+            "id": "https://tiantian.press/2021/07/06/vue/test/",
+            "url": "https://tiantian.press/2021/07/06/vue/test/",
             "title": "test",
             "date_published": "2021-07-06T06:25:39.000Z",
             "content_html": "<p>test1111</p>\n",
