@@ -56,18 +56,18 @@
         <updated>2021-07-06T06:25:39.000Z</updated>
     </entry>
     <entry>
-        <id>https://tiantian.press/javascript/ja1/</id>
-        <title>test</title>
-        <link rel="alternate" href="https://tiantian.press/javascript/ja1/"/>
+        <id>https://tiantian.press/javascript/test/</id>
+        <title>ja1</title>
+        <link rel="alternate" href="https://tiantian.press/javascript/test/"/>
         <content type="html">&lt;p&gt;test1111&lt;/p&gt;
 </content>
         <category term="javascript" scheme="https://tiantian.press/categories/javascript/" />
         <updated>2021-07-06T06:25:39.000Z</updated>
     </entry>
     <entry>
-        <id>https://tiantian.press/javascript/test/</id>
-        <title>ja1</title>
-        <link rel="alternate" href="https://tiantian.press/javascript/test/"/>
+        <id>https://tiantian.press/javascript/ja1/</id>
+        <title>test</title>
+        <link rel="alternate" href="https://tiantian.press/javascript/ja1/"/>
         <content type="html">&lt;p&gt;test1111&lt;/p&gt;
 </content>
         <category term="javascript" scheme="https://tiantian.press/categories/javascript/" />
